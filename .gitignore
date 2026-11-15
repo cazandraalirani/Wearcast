@@ -1,0 +1,9 @@
+# Private WiFi credentials
+wearcast/network_info.h
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
